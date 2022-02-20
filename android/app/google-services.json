@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77840545134",
+    "project_id": "gharjagga-5c352",
+    "storage_bucket": "gharjagga-5c352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77840545134:android:8d36a561b91d62c00a7d7f",
+        "android_client_info": {
+          "package_name": "com.lightweb.gharjagga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77840545134-kd4l1fngf05p89pfbi7a8mhq3tosqb38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJcWrpgQw1mAf4Uj5sGhlCjKWAObAtDO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77840545134-kd4l1fngf05p89pfbi7a8mhq3tosqb38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
